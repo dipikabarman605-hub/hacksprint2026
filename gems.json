@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bangalore-palace",
+    "name": "Bangalore Palace",
+    "lat": 12.9982,
+    "lng": 77.5921,
+    "description": "Majestic 19th-century royal palace inspired by England's Windsor Castle, featuring Tudor-style battlements, intricate floral wood carvings, and royal memorabilia.",
+    "opening_time": "10:00",
+    "closing_time": "17:30",
+    "closed_days": [],
+    "avg_visit_minutes": 75,
+    "best_time_of_day": "morning",
+    "crowd_level_by_time": {
+      "morning": "low",
+      "afternoon": "medium",
+      "evening": "high"
+    },
+    "best_time_chip": "Quiet in the morning",
+    "category": "Royal Heritage",
+    "hero_icon": "🏰"
+  },
+  {
+    "id": "tipu-sultan-palace",
+    "name": "Tipu Sultan's Summer Palace",
+    "lat": 12.9592,
+    "lng": 77.5737,
+    "description": "An exquisite two-storey Indo-Islamic summer retreat built entirely in teakwood in 1791, adorned with carved pillars, ornate fluted arches, and historic frescoes.",
+    "opening_time": "08:30",
+    "closing_time": "17:30",
+    "closed_days": ["Monday"],
+    "avg_visit_minutes": 45,
+    "best_time_of_day": "morning",
+    "crowd_level_by_time": {
+      "morning": "low",
+      "afternoon": "medium",
+      "evening": "medium"
+    },
+    "best_time_chip": "Best morning light",
+    "category": "Hidden Heritage",
+    "hero_icon": "🏛️"
+  },
+  {
+    "id": "lalbagh-glass-house",
+    "name": "Lalbagh Botanical Garden & Glass House",
+    "lat": 12.9507,
+    "lng": 77.5848,
+    "description": "A historic 240-acre botanical paradise commissioned by Hyder Ali in 1760, boasting centuries-old trees, a tranquil lotus lake, and a grand 1889 cast-iron glass pavilion.",
+    "opening_time": "06:00",
+    "closing_time": "19:00",
+    "closed_days": [],
+    "avg_visit_minutes": 60,
+    "best_time_of_day": "evening",
+    "crowd_level_by_time": {
+      "morning": "medium",
+      "afternoon": "low",
+      "evening": "high"
+    },
+    "best_time_chip": "Visit at sunset",
+    "category": "Nature & Architecture",
+    "hero_icon": "🌿"
+  },
+  {
+    "id": "bugle-rock-bull-temple",
+    "name": "Bugle Rock & Dodda Basavana Gudi",
+    "lat": 12.9429,
+    "lng": 77.5683,
+    "description": "A geological wonder formed by 3,000-million-year-old peninsular gneiss rocks where watchmen sounded bugle calls, neighboring the monolithic 16th-century sacred Bull Temple.",
+    "opening_time": "06:00",
+    "closing_time": "20:00",
+    "closed_days": [],
+    "avg_visit_minutes": 40,
+    "best_time_of_day": "evening",
+    "crowd_level_by_time": {
+      "morning": "low",
+      "afternoon": "low",
+      "evening": "medium"
+    },
+    "best_time_chip": "Peaceful evening breeze",
+    "category": "Ancient Wonder",
+    "hero_icon": "🪨"
+  },
+  {
+    "id": "malleshwaram-market",
+    "name": "Malleshwaram 8th Cross & Kadu Malleshwara",
+    "lat": 13.0039,
+    "lng": 77.5701,
+    "description": "A lively cultural walk through fragrant flower markets laden with jasmine garlands, traditional filter coffee stalls, and an ancient 17th-century black stone Shiva temple.",
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "closed_days": [],
+    "avg_visit_minutes": 50,
+    "best_time_of_day": "morning",
+    "crowd_level_by_time": {
+      "morning": "high",
+      "afternoon": "low",
+      "evening": "high"
+    },
+    "best_time_chip": "Vibrant morning flower auctions",
+    "category": "Local Culture & Food",
+    "hero_icon": "🌸"
+  }
+]
